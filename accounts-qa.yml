@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA-Refresh-5-webhook-8 APIs "
+  message: "Welcome to EazyBank accounts related QA-Refresh-5-webhook-9 APIs "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@eazybank.com"
